@@ -12,6 +12,85 @@ html,body{
   transition: background-color 0.2s ease;
 }
 
+/* contact us form */
+
+#contactus{
+  background-color: #323a45;
+  padding: 20px 40px;
+}
+
+#contactus h2{
+  text-align:center;
+  color: wheat;
+  font-weight: 800;
+  margin-bottom: 40px;
+}
+
+#contactus ::placeholder {
+  color: white;
+  opacity: 1;
+}
+
+#contactus :-ms-input-placeholder {
+  color: white;
+}
+
+#contactus ::-ms-input-placeholder {
+  color: white;
+}
+#contactus input:focus::placeholder,#contactus input:focus:-ms-input-placeholder,#contactus input:focus::-ms-input-placeholder{
+  color: wheat;
+}
+
+#contactus input:-webkit-autofill {
+    -webkit-text-fill-color: green !important;
+}
+
+#contactus #message-cont{
+  margin-top: 40px;
+}
+
+#contactus #message-cont textarea,#contactus .upper-half input{
+  width: 100%;
+outline: none;
+border: none;
+color: white;
+background-color: #2a313c;
+padding: 12px 25px;
+margin-bottom: 20px;
+}
+#contactus #message-cont textarea:focus,#contactus .upper-half input:focus{
+  border: 2px solid #7b6b4d;
+}
+
+#contactus label{
+  display: block;
+}
+
+#contactus #submit-cont{
+  margin-top: 20px;
+  float: right;
+}
+#contactus #submit-cont:hover{
+  border: 2px solid #7b6b4d;
+  border-radius: 5px;
+}
+
+#contactus #submit-cont input{
+  border: 1px solid;
+  color: white;
+  background-color: #323a45;
+  width: 120px;
+  padding: 7px;
+  font-weight: 700;
+  border-radius: 5px;
+}
+
+#contactus form{
+  width: 100%;
+}
+/* contact us form */
+
 .nav-link{
   font-size: 1.1em !important;
   color: white !important;
