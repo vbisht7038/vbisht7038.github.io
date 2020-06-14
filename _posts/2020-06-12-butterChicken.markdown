@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "Butter Chicken Recipe"
+description: "Butter Chicken Recipe For Non veg Lovers"
+author: Varun Bisht
 date:   2020-06-12 23:26:47 +0530
 categories: non-veg
 permalink: "/non-veg/butterChicken"
+blogImg: "/assets/img/non-veg/butterChicken.jpg"
 ---
 ![Butter Chicken](/assets/img/non-veg/butterChicken.jpg "Butter Chicken")
 

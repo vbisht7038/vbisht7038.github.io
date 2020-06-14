@@ -124,6 +124,32 @@ margin-bottom: 20px;
 }
 /* contact us form */
 
+/* blog post css */
+
+#blog-posts .card{
+  padding: 10px;
+  margin-bottom: 10px;
+}
+#blog-posts span.clockCont i {
+    margin-right: 5px;
+}
+#blog-posts .card-info span {
+    margin-right: 10px;
+}
+#blog-posts img{
+  height: 500px;
+}
+#blog-posts a {
+  background-color: transparent;
+  border: 1px solid #2196F3;
+  padding: .5rem 1rem;
+  cursor: pointer;
+  border-radius: .25rem;
+}
+#blog-posts .content p{
+  margin: 5px 0px !important;
+}
+/* blog post css */
 .nav-link{
   font-size: 1.1em !important;
   color: white !important;
