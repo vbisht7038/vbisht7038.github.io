@@ -22,6 +22,9 @@
   <div id=post-cont>
   {{ content }}
   </div>
+  <!-- comment box -->
+  {% include comment-disqus.md %}
+  <!-- comment box -->
 </div>
 <div id="right" class="col-xs-12 col-sm-3 col-md-2 col-lg-2 col-xl-2">
 </div>

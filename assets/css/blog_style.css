@@ -12,6 +12,12 @@ html,body{
   transition: background-color 0.2s ease;
 }
 
+/* comment box */
+#disqus_thread {
+  margin-bottom: 50px;
+}
+/* comment box */
+
 /* css for blog */
 #mainContainer{
   margin-bottom: 25px;
