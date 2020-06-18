@@ -10,6 +10,8 @@ blogImg: "/assets/img/non-veg/butterChicken.jpg"
 ---
 ![Butter Chicken](/assets/img/non-veg/butterChicken.jpg "Butter Chicken")
 
+{% include signUp.md %}
+
 # Butter Chicken Recipe
 
 ## Ingredients
