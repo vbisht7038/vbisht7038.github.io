@@ -5,6 +5,7 @@ description: "Butter Chicken Recipe For Non veg Lovers"
 author: Varun Bisht
 date:   2020-06-12 23:26:47 +0530
 categories: non-veg
+keywords: "non veg recipe,non veg gravy,butterChicken,healthy butter chicken recipe"
 permalink: "/non-veg/butterChicken"
 blogImg: "/assets/img/non-veg/butterChicken.jpg"
 ---
