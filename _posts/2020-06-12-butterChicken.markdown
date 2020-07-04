@@ -7,6 +7,7 @@ date:   2020-06-12 23:26:47 +0530
 categories: non-veg
 keywords: "non veg recipe,non veg gravy,butterChicken,healthy butter chicken recipe"
 permalink: "/non-veg/butterChicken"
+image: "/assets/img/non-veg/butterChicken.jpg"
 blogImg: "/assets/img/non-veg/butterChicken.jpg"
 ---
 ![Butter Chicken](/assets/img/non-veg/butterChicken.jpg "Butter Chicken")
